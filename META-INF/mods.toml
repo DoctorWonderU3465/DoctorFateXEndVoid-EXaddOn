@@ -1,0 +1,21 @@
+modLoader="lowcodefml"
+showAsResourcePack = false
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="doctorfatexendxvoid"
+version="1.0.0"
+logoFile = "logo.png"
+logoBlur = false
+displayName="Doctor fate X End/Void"
+description='''
+This is a mod combinding the end and void from mincraft and Doctor fate from the Dc universe. I got inspidered to make this mod from Arrzees enhanced super hero series.
+'''
+
+[[dependencies.doctorfatexendxvoid]]
+modId = "palladium"
+mandatory = true
+versionRange = "[4.4.1,)"
+ordering = "NONE"
+side = "BOTH"

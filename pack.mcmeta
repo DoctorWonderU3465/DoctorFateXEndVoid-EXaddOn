@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "id": "doctorfatexendxvoid",
+        "pack_format": 15,
+        "description": "This is a mod combinding the end and void from mincraft and Doctor fate from the Dc universe. I got inspidered to make this mod from Arrzees enhanced super hero series.",
+        "version": "1.0.0"
+    },
+    "dependencies": {
+        "common": {},
+        "fabric": {},
+        "forge": {}
+    }
+}

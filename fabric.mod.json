@@ -1,0 +1,13 @@
+{
+    "schemaVersion": 1,
+    "authors": [
+        "DoctorWonderU3465"
+    ],
+    "environment": "*",
+    "id": "doctorfatexendxvoid",
+    "version": "1.0.0",
+    "name": "Doctor fate X End/Void",
+    "description": "This is a mod combinding the end and void from mincraft and Doctor fate from the Dc universe. I got inspidered to make this mod from Arrzees enhanced super hero series.",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}
