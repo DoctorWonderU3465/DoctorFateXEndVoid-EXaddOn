@@ -1,0 +1,32 @@
+{
+    "name": "Doctor Void",
+    "persistent_data": true,
+    "background": "minecraft:textures/block/white_wool.png",
+    "icon": "minecraft:ender_eye",
+    "gui_display_type": "tree",
+    "abilities": {
+        "test_dummy":{
+            "type": "palladium:dummy",
+            "icon": "minecraft:ender_eye",
+            "title": "Test",
+            "bar_color": "black",
+            "hidden": false,
+            "hidden_in_bar": false,
+            "list_index": -1,
+            "gui_position": "null",
+            "description": "This is a test of the abilities",
+            "conditions": {
+                "enabling": [
+                                        {
+                                            "type": "palladium:action",
+                                            "cooldown": 0,
+                                            "key_type": "key_bind",
+                                            "needs_empty_hand": false,
+                                            "allow_scrolling_when_crouching": true
+                                        }
+                ],
+                "unlocking": []
+            }
+        }
+    }
+}
